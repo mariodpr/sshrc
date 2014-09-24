@@ -1,0 +1,6 @@
+# sshrc(1) completion                                        -*- shell-script -*-
+
+_xfunc ssh _ssh
+complete -F _ssh sshrc
+
+# ex: ts=4 sw=4 et filetype=sh
