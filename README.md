@@ -93,7 +93,7 @@ You may have different configurations for different servers. I recommend the fol
 
 * I don't recommend trying to throw your entire .vim folder into ~/.sshrc.d. It will more than likely be too big.
 
-* For larger configurations, consider copying files to an obscure folder on the server and using ~/.sshrc to automatically source those configurations on login.
+* For larger configurations, consider copying files to an obscure folder on the server and using ~/.sshrc to automatically source those configurations on login..
 
 ### Contributing
 
